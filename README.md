@@ -19,3 +19,7 @@ Create Table: CREATE TABLE `user` (
   PRIMARY KEY (`id`),
   UNIQUE KEY `usercol_UNIQUE` (`usercol`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
+
+
+Note:
+if you want to test the run, you need to run two projects (one on the server side and one on the client side) at the same time. Please copy and paste a copy of the whole project to run it alone, or compile a version by yourself.
