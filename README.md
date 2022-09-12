@@ -2,7 +2,7 @@
 Use the socket class library of C # to write, combine with MySQL database to store, support creating rooms, adding rooms, deleting rooms, and real-time conversations
 You can set the connstring member variable in the mysqlconn class in "solution / coon. CS" to a modify the location of your database.
 
-You can create the required table through the following SQL statements:
+You can create the required table through the following SQL statements:\n
 Table1:
 Create Table: CREATE TABLE `room` (
   `rnum` int NOT NULL,
