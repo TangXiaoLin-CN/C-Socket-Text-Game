@@ -19,3 +19,6 @@ Create Table: CREATE TABLE `user` (
   PRIMARY KEY (`id`),
   UNIQUE KEY `usercol_UNIQUE` (`usercol`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
+
+
+Thank you for your use！
