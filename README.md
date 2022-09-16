@@ -21,3 +21,8 @@ Create Table: CREATE TABLE `user` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
 
 
+<<<<<<< HEAD
+=======
+Note:
+if you want to test the run, you need to run two projects (one on the server side and one on the client side) at the same time. Please copy and paste a copy of the whole project to run it alone, or compile a version by yourself.
+>>>>>>> 0c63b3e3070f6001d14d9ea6b7f6213f95815071

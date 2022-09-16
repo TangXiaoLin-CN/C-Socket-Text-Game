@@ -1,3 +1,4 @@
 bin/
 obj/
 .gitignore.swp
+.vs/
